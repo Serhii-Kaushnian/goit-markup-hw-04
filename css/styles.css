@@ -447,6 +447,9 @@ body {
 .address-link {
     color: rgba(255, 255, 255, 0.6);
 }
+.address-link:hover {
+    color: var(--accent-color);
+}
 .address-link-white {
     color: var(--secondary-text-color);
 }
